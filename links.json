@@ -1,16 +1,16 @@
 {
-  "a-simple-code": "http://google.com",
+  "a-simple-code": "https://audiofindr-6o3.pages.dev",
   "also-possible": {
-    "link": "http://google.com"
+    "link": "https://audiofindr-6o3.pages.dev"
   },
   "a-password-protected-link": {
     "link": "http://google.com",
     "password": "hello123"
   },
   "a-password-protected-link-with-info": {
-    "link": "http://google.com",
+    "link": "audiofindr-6o3.pages.dev",
     "password": "hello123",
-    "info": "The password is `hello123`"
+    "info": "Muffin LinkHub Security`"
   },
   "a-disabled-link": {
     "disabled": true,
